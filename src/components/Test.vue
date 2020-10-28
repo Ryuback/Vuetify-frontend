@@ -91,8 +91,6 @@
   .tile {
     margin: 5px;
     border-radius: 4px;
-  }
-  .tile:hover {
-    background: white;
+
   }
 </style>
